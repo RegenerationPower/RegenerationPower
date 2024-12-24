@@ -14,7 +14,6 @@
 ![ESP32](https://img.shields.io/badge/ESP32-000000.svg?style=flat&logo=espressif&logoColor=white)
 ![Yocto Project](https://img.shields.io/badge/Yocto_Project-000000.svg?style=flat&logo=yocto-project&logoColor=white)
 ![BeagleBone](https://img.shields.io/badge/BeagleBone-000000.svg?style=flat&logo=beagleboard&logoColor=white)
-![Embedded Artists](https://img.shields.io/badge/Embedded_Artists-000000.svg?style=flat&logo=data:image/png;base64,[base64-код_зображення])
 ![AVR](https://img.shields.io/badge/AVR-000000.svg?style=flat&logo=atmel&logoColor=white)
 
 
